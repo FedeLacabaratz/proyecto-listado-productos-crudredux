@@ -1,0 +1,34 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Fresa Fresco",
+      "precio": "20",
+      "id": 5
+    },
+    {
+      "nombre": "Rib Eye 1Kg",
+      "precio": 70,
+      "id": 6
+    },
+    {
+      "nombre": "Noodles",
+      "precio": 6,
+      "id": 7
+    },
+    {
+      "nombre": "Spaghetti",
+      "precio": 12,
+      "id": 8
+    },
+    {
+      "nombre": "Beer",
+      "precio": 50,
+      "id": 9
+    },
+    {
+      "nombre": "Red Wine",
+      "precio": 90,
+      "id": 10
+    }
+  ]
+}
