@@ -1,7 +1,3 @@
-# ListaProductos Project
-
-[ListaProductos App](https://listado-productos.netlify.app/#/) - Create, Read, Update and Delete products from a List with this very simple app made with React using Redux.
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
